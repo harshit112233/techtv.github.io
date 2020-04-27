@@ -1,0 +1,11 @@
+<i class="fab fa-facebook-f"></i>
+
+
+
+
+<li class="nav-link">
+    <a href="pages.html">Pages</a>
+</li>
+
+
+If you are one of them who are willing to get windows 10 but not able to do so. Then let me tell youBack when Windows 10 was first released, Microsoft allowed users of Windows 7 or Windows 8.1 to upgrade to Windows 10 for free. Microsoft officially ended the free upgrade offer in December 2017, but a method still works that allows you to upgrade an older version of Windows to Windows 10 for free.Microsoft doesn’t talk about that Windows 10 free upgrade offer anymore, but devices with legitimate Windows 7 or Windows 8.1 licenses could be upgraded to Windows 10 for free using the Windows 10 Media Creation Tool.To get Windows 10, you’ll just have to download and run Media Creation Tool on Windows 7/8/8.1 and upgrade the PC to Windows 10. After the upgrade, connect to the internet and your older Windows license will be converted to a Windows 10 license.
